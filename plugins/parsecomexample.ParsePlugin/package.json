@@ -1,0 +1,16 @@
+{
+  "name": "parsecomexample.ParsePlugin",
+  "version": "0.0.1",
+  "description": "Parse.com Plugin",
+  "cordova": {
+    "id": "parsecomexample.ParsePlugin",
+    "platforms": [
+      "windows"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordovacordova-windows"
+  ],
+  "author": "",
+  "license": "!"
+}
